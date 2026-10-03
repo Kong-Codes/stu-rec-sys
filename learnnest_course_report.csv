@@ -1,0 +1,12 @@
+scid,student_id,student,graduated,course_id,course,course_unit,teacher_id,teacher,score,project,status,project_score,feedback_comments,score_pct,overall,band
+6,STU003,Ceaser,False,PY101,Python Basics,3,TCH001,Sadique,2.9,Student Record System,graded,59,4,57.99999999999999,58.4,Pass
+5,STU003,Ceaser,False,SQL201,SQL Essentials,2,TCH002,Ngozi Adeyemi,3.1,Sales Analysis Queries,graded,65,4,62.0,63.2,Pass
+9,STU005,Daniel,False,DE301,Data Pipelines,4,TCH003,Bola Ahmed,3.6,Kafka Streaming Pipeline,graded,75,4,72.0,73.2,Merit
+11,STU006,Emeka,False,DE301,Data Pipelines,4,TCH003,Bola Ahmed,3.0,Kafka Streaming Pipeline,graded,59,4,60.0,59.6,Pass
+10,STU006,Emeka,False,PY101,Python Basics,3,TCH001,Sadique,2.4,Student Record System,resubmit,44,2,48.0,46.4,Needs Support
+7,STU004,Gbenga,True,DE301,Data Pipelines,4,TCH003,Bola Ahmed,4.9,Kafka Streaming Pipeline,graded,94,1,98.00000000000001,96.4,Distinction
+8,STU004,Gbenga,True,SQL201,SQL Essentials,2,TCH002,Ngozi Adeyemi,4.4,Sales Analysis Queries,graded,85,1,88.00000000000001,86.8,Distinction
+4,STU002,Pruva,False,DE301,Data Pipelines,4,TCH003,Bola Ahmed,4.7,Kafka Streaming Pipeline,graded,86,1,94.0,90.8,Distinction
+3,STU002,Pruva,False,PY101,Python Basics,3,TCH001,Sadique,4.2,Student Record System,graded,84,1,84.00000000000001,84.0,Distinction
+1,STU001,Tega,False,PY101,Python Basics,3,TCH001,Sadique,4.5,Student Record System,graded,83,1,90.0,87.2,Distinction
+2,STU001,Tega,False,SQL201,SQL Essentials,2,TCH002,Ngozi Adeyemi,3.8,Sales Analysis Queries,graded,76,4,76.0,76.0,Merit

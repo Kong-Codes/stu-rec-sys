@@ -1,0 +1,6097 @@
+[
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-01T20:18:00Z"
+    },
+    "session_id": "STU006-00-6262",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-01T20:23:00Z"
+    },
+    "session_id": "STU006-00-6262",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types",
+    "duration_s": 1215,
+    "completed": false
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-01T20:31:00Z"
+    },
+    "session_id": "STU006-00-6262",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types"
+  },
+  {
+    "student_id": "STU006",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-01T20:46:00Z"
+    },
+    "session_id": "STU006-00-6262",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-02-data-types",
+    "score_pct": 56,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-01T20:48:00Z"
+    },
+    "session_id": "STU006-00-6262",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-01T21:40:00Z"
+    },
+    "session_id": "STU001-00-9317",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-01T21:54:00Z"
+    },
+    "session_id": "STU001-00-9317",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-05-fstrings",
+    "score_pct": 99,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-01T22:16:00Z"
+    },
+    "session_id": "STU001-00-9317",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-01-variables"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-01T22:19:00Z"
+    },
+    "session_id": "STU001-00-9317",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-02T08:19:00Z"
+    },
+    "session_id": "STU006-01-2758",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-02T08:36:00Z"
+    },
+    "session_id": "STU006-01-2758",
+    "device": "web",
+    "course_id": "DE301",
+    "thread_title": "Question about the rubric"
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-02T08:55:00Z"
+    },
+    "session_id": "STU006-01-2758",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types",
+    "duration_s": 350,
+    "completed": true
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-02T09:18:00Z"
+    },
+    "session_id": "STU006-01-2758",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-02T09:20:00Z"
+    },
+    "session_id": "STU006-01-2758",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-02T13:07:00Z"
+    },
+    "session_id": "STU004-01-5564",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-02T13:25:00Z"
+    },
+    "session_id": "STU005-01-6150",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-02T13:27:00Z"
+    },
+    "session_id": "STU004-01-5564",
+    "device": "ios",
+    "course_id": "SQL201",
+    "thread_title": "Sharing a useful resource"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-02T13:31:00Z"
+    },
+    "session_id": "STU005-01-6150",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-02T13:35:00Z"
+    },
+    "session_id": "STU004-01-5564",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers"
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-02T13:42:00Z"
+    },
+    "session_id": "STU004-01-5564",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-02T13:50:00Z"
+    },
+    "session_id": "STU005-01-6150",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-02T13:56:00Z"
+    },
+    "session_id": "STU001-01-6038",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-02T14:01:00Z"
+    },
+    "session_id": "STU005-01-6150",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-04-airflow-dags",
+    "score_pct": 58,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-02T14:06:00Z"
+    },
+    "session_id": "STU001-01-6038",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-01-variables",
+    "score_pct": 73,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-02T14:07:00Z"
+    },
+    "session_id": "STU005-01-6150",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-02T14:26:00Z"
+    },
+    "session_id": "STU001-01-6038",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-02-data-types",
+    "score_pct": 90,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-02T14:30:00Z"
+    },
+    "session_id": "STU001-01-6038",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-02T20:12:00Z"
+    },
+    "session_id": "STU002-01-3414",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-02T20:22:00Z"
+    },
+    "session_id": "STU002-01-3414",
+    "device": "web",
+    "course_id": "PY101",
+    "thread_title": "Help with my error"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-02T20:31:00Z"
+    },
+    "session_id": "STU002-01-3414",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-03T12:33:00Z"
+    },
+    "session_id": "STU001-02-7932",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-03T12:58:00Z"
+    },
+    "session_id": "STU001-02-7932",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-03T13:00:00Z"
+    },
+    "session_id": "STU004-02-3972",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-03T13:05:00Z"
+    },
+    "session_id": "STU004-02-3972",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-03T13:17:00Z"
+    },
+    "session_id": "STU001-02-7932",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-03T13:22:00Z"
+    },
+    "session_id": "STU001-02-7932",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-03T13:24:00Z"
+    },
+    "session_id": "STU004-02-3972",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-03T13:33:00Z"
+    },
+    "session_id": "STU004-02-3972",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-03T14:56:00Z"
+    },
+    "session_id": "STU002-02-4185",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-03T15:11:00Z"
+    },
+    "session_id": "STU002-02-4185",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-03T15:27:00Z"
+    },
+    "session_id": "STU002-02-4185",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-05-fstrings"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-03T15:31:00Z"
+    },
+    "session_id": "STU002-02-4185",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics",
+    "duration_s": 1054,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-03T15:55:00Z"
+    },
+    "session_id": "STU002-02-4185",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 1339,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-03T16:04:00Z"
+    },
+    "session_id": "STU002-02-4185",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-03T19:58:00Z"
+    },
+    "session_id": "STU005-02-9047",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-03T20:05:00Z"
+    },
+    "session_id": "STU005-02-9047",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-04-airflow-dags",
+    "score_pct": 57,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU005",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-03T20:10:00Z"
+    },
+    "session_id": "STU005-02-9047",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-03-consumers",
+    "score_pct": 72,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-03T20:13:00Z"
+    },
+    "session_id": "STU005-02-9047",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-04T09:21:00Z"
+    },
+    "session_id": "STU001-03-1344",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-04T09:24:00Z"
+    },
+    "session_id": "STU001-03-1344",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-01-variables"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-04T09:29:00Z"
+    },
+    "session_id": "STU001-03-1344",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-03-lists-dicts",
+    "score_pct": 72,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-04T09:35:00Z"
+    },
+    "session_id": "STU001-03-1344",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-04T13:10:00Z"
+    },
+    "session_id": "STU004-03-7062",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-04T13:31:00Z"
+    },
+    "session_id": "STU004-03-7062",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select",
+    "duration_s": 438,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-04T13:55:00Z"
+    },
+    "session_id": "STU004-03-7062",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-04T14:13:00Z"
+    },
+    "session_id": "STU004-03-7062",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes",
+    "duration_s": 679,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-04T14:23:00Z"
+    },
+    "session_id": "STU004-03-7062",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-04T17:24:00Z"
+    },
+    "session_id": "STU003-03-4826",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-04T17:37:00Z"
+    },
+    "session_id": "STU003-03-4826",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-04-indexes",
+    "score_pct": 54,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-04T17:52:00Z"
+    },
+    "session_id": "STU002-03-9270",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-04T17:55:00Z"
+    },
+    "session_id": "STU003-03-4826",
+    "device": "web",
+    "course_id": "SQL201",
+    "thread_title": "Sharing a useful resource"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-04T18:00:00Z"
+    },
+    "session_id": "STU002-03-9270",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-04-airflow-dags",
+    "score_pct": 88,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-04T18:12:00Z"
+    },
+    "session_id": "STU003-03-4826",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-04T18:19:00Z"
+    },
+    "session_id": "STU002-03-9270",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers",
+    "duration_s": 682,
+    "completed": true
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-04T18:19:00Z"
+    },
+    "session_id": "STU003-03-4826",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-04T18:22:00Z"
+    },
+    "session_id": "STU003-03-4826",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-04T18:29:00Z"
+    },
+    "session_id": "STU002-03-9270",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-04T18:36:00Z"
+    },
+    "session_id": "STU002-03-9270",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-04T18:40:00Z"
+    },
+    "session_id": "STU002-03-9270",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-04T19:21:00Z"
+    },
+    "session_id": "STU006-03-5833",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-04T19:43:00Z"
+    },
+    "session_id": "STU006-03-5833",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-04-functions",
+    "score_pct": 53,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-04T19:48:00Z"
+    },
+    "session_id": "STU006-03-5833",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-04T19:52:00Z"
+    },
+    "session_id": "STU006-03-5833",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-05T10:30:00Z"
+    },
+    "session_id": "STU006-04-6301",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-05T10:41:00Z"
+    },
+    "session_id": "STU006-04-6301",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-05T10:54:00Z"
+    },
+    "session_id": "STU006-04-6301",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-05T10:56:00Z"
+    },
+    "session_id": "STU006-04-6301",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-05T15:50:00Z"
+    },
+    "session_id": "STU003-04-5342",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-05T16:13:00Z"
+    },
+    "session_id": "STU003-04-5342",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU003",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-05T16:26:00Z"
+    },
+    "session_id": "STU003-04-5342",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions",
+    "duration_s": 1228,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-05T16:34:00Z"
+    },
+    "session_id": "STU005-04-5757",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-05T16:36:00Z"
+    },
+    "session_id": "STU003-04-5342",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by",
+    "duration_s": 585,
+    "completed": false
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-05T16:44:00Z"
+    },
+    "session_id": "STU003-04-5342",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-05T16:59:00Z"
+    },
+    "session_id": "STU005-04-5757",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers",
+    "duration_s": 860,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-05T17:08:00Z"
+    },
+    "session_id": "STU005-04-5757",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-02-producers",
+    "score_pct": 76,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-05T17:28:00Z"
+    },
+    "session_id": "STU005-04-5757",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 1249,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-05T17:31:00Z"
+    },
+    "session_id": "STU005-04-5757",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-05T18:31:00Z"
+    },
+    "session_id": "STU001-04-4510",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-05T18:41:00Z"
+    },
+    "session_id": "STU001-04-4510",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-04-indexes",
+    "score_pct": 62,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-05T18:55:00Z"
+    },
+    "session_id": "STU001-04-4510",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-05T18:57:00Z"
+    },
+    "session_id": "STU001-04-4510",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-05T19:13:00Z"
+    },
+    "session_id": "STU002-04-2052",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-05T19:26:00Z"
+    },
+    "session_id": "STU002-04-2052",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 247,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-05T19:41:00Z"
+    },
+    "session_id": "STU002-04-2052",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-05-monitoring",
+    "score_pct": 100,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-05T19:59:00Z"
+    },
+    "session_id": "STU002-04-2052",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-05T20:14:00Z"
+    },
+    "session_id": "STU002-04-2052",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-04-airflow-dags",
+    "score_pct": 90,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-05T20:24:00Z"
+    },
+    "session_id": "STU002-04-2052",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-06T09:48:00Z"
+    },
+    "session_id": "STU003-05-2646",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-06T10:13:00Z"
+    },
+    "session_id": "STU003-05-2646",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-06T10:26:00Z"
+    },
+    "session_id": "STU003-05-2646",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-03-group-by",
+    "score_pct": 53,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU003",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-06T10:36:00Z"
+    },
+    "session_id": "STU003-05-2646",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins",
+    "duration_s": 468,
+    "completed": true
+  },
+  {
+    "student_id": "STU003",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-06T10:58:00Z"
+    },
+    "session_id": "STU003-05-2646",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions",
+    "duration_s": 1314,
+    "completed": true
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-06T11:07:00Z"
+    },
+    "session_id": "STU003-05-2646",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-06T12:41:00Z"
+    },
+    "session_id": "STU006-05-6890",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-06T13:05:00Z"
+    },
+    "session_id": "STU006-05-6890",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-06T13:20:00Z"
+    },
+    "session_id": "STU006-05-6890",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts",
+    "duration_s": 360,
+    "completed": true
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-06T13:26:00Z"
+    },
+    "session_id": "STU006-05-6890",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-06T18:41:00Z"
+    },
+    "session_id": "STU001-05-2612",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-06T18:54:00Z"
+    },
+    "session_id": "STU001-05-2612",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-01-select",
+    "score_pct": 63,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-06T19:04:00Z"
+    },
+    "session_id": "STU001-05-2612",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-06T20:38:00Z"
+    },
+    "session_id": "STU002-05-4613",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-06T20:49:00Z"
+    },
+    "session_id": "STU002-05-4613",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-01-variables"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-06T21:02:00Z"
+    },
+    "session_id": "STU002-05-4613",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 458,
+    "completed": false
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-06T21:24:00Z"
+    },
+    "session_id": "STU002-05-4613",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions",
+    "duration_s": 1332,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-06T21:29:00Z"
+    },
+    "session_id": "STU002-05-4613",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types",
+    "duration_s": 1065,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-06T21:35:00Z"
+    },
+    "session_id": "STU002-05-4613",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-07T14:20:00Z"
+    },
+    "session_id": "STU002-06-4467",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-07T14:33:00Z"
+    },
+    "session_id": "STU002-06-4467",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-04-airflow-dags",
+    "score_pct": 82,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-07T14:38:00Z"
+    },
+    "session_id": "STU002-06-4467",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 226,
+    "completed": false
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-07T14:48:00Z"
+    },
+    "session_id": "STU002-06-4467",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics",
+    "duration_s": 183,
+    "completed": false
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-07T14:51:00Z"
+    },
+    "session_id": "STU002-06-4467",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types",
+    "duration_s": 378,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-07T14:54:00Z"
+    },
+    "session_id": "STU002-06-4467",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-08T09:19:00Z"
+    },
+    "session_id": "STU005-07-7523",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-08T09:22:00Z"
+    },
+    "session_id": "STU004-07-8043",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-08T09:35:00Z"
+    },
+    "session_id": "STU005-07-7523",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-01-kafka-basics",
+    "score_pct": 56,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-08T09:46:00Z"
+    },
+    "session_id": "STU004-07-8043",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes",
+    "duration_s": 1199,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-08T09:48:00Z"
+    },
+    "session_id": "STU004-07-8043",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-08T09:52:00Z"
+    },
+    "session_id": "STU005-07-7523",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 825,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-08T09:59:00Z"
+    },
+    "session_id": "STU005-07-7523",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-08T10:18:00Z"
+    },
+    "session_id": "STU005-07-7523",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-08T10:22:00Z"
+    },
+    "session_id": "STU005-07-7523",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-08T13:39:00Z"
+    },
+    "session_id": "STU006-07-4618",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-08T13:57:00Z"
+    },
+    "session_id": "STU006-07-4618",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-05-fstrings"
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-08T14:13:00Z"
+    },
+    "session_id": "STU006-07-4618",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 1220,
+    "completed": false
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-08T14:18:00Z"
+    },
+    "session_id": "STU006-07-4618",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-09T11:25:00Z"
+    },
+    "session_id": "STU004-08-1897",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-09T11:37:00Z"
+    },
+    "session_id": "STU004-08-1897",
+    "device": "ios",
+    "course_id": "DE301",
+    "thread_title": "Sharing a useful resource"
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-09T11:43:00Z"
+    },
+    "session_id": "STU004-08-1897",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-09T15:08:00Z"
+    },
+    "session_id": "STU001-08-7912",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-09T15:25:00Z"
+    },
+    "session_id": "STU001-08-7912",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-09T15:45:00Z"
+    },
+    "session_id": "STU001-08-7912",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-09T15:48:00Z"
+    },
+    "session_id": "STU001-08-7912",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-09T17:13:00Z"
+    },
+    "session_id": "STU002-08-8619",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-09T17:21:00Z"
+    },
+    "session_id": "STU002-08-8619",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics",
+    "duration_s": 455,
+    "completed": false
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-09T17:42:00Z"
+    },
+    "session_id": "STU002-08-8619",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU002",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-09T17:57:00Z"
+    },
+    "session_id": "STU002-08-8619",
+    "device": "web",
+    "course_id": "DE301",
+    "thread_title": "Help with my error"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-09T18:02:00Z"
+    },
+    "session_id": "STU002-08-8619",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-10T09:44:00Z"
+    },
+    "session_id": "STU002-09-5941",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-10T09:58:00Z"
+    },
+    "session_id": "STU002-09-5941",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts",
+    "duration_s": 261,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-10T10:05:00Z"
+    },
+    "session_id": "STU002-09-5941",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-10T13:07:00Z"
+    },
+    "session_id": "STU004-09-1126",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-10T13:15:00Z"
+    },
+    "session_id": "STU004-09-1126",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-10T13:20:00Z"
+    },
+    "session_id": "STU004-09-1126",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-10T13:23:00Z"
+    },
+    "session_id": "STU004-09-1126",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select",
+    "duration_s": 761,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-10T13:48:00Z"
+    },
+    "session_id": "STU004-09-1126",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by",
+    "duration_s": 355,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-10T13:55:00Z"
+    },
+    "session_id": "STU004-09-1126",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-10T13:59:00Z"
+    },
+    "session_id": "STU005-09-4694",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-10T14:04:00Z"
+    },
+    "session_id": "STU005-09-4694",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-10T14:11:00Z"
+    },
+    "session_id": "STU005-09-4694",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 1212,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-10T14:32:00Z"
+    },
+    "session_id": "STU005-09-4694",
+    "device": "ios",
+    "course_id": "DE301",
+    "thread_title": "Is my approach right?"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-10T14:39:00Z"
+    },
+    "session_id": "STU005-09-4694",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-10T18:16:00Z"
+    },
+    "session_id": "STU003-09-8529",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-10T18:33:00Z"
+    },
+    "session_id": "STU003-09-8529",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-02-joins",
+    "score_pct": 44,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU003",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-10T18:56:00Z"
+    },
+    "session_id": "STU003-09-8529",
+    "device": "web",
+    "course_id": "PY101",
+    "thread_title": "Question about the rubric"
+  },
+  {
+    "student_id": "STU003",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-10T19:05:00Z"
+    },
+    "session_id": "STU003-09-8529",
+    "device": "web",
+    "course_id": "PY101",
+    "thread_title": "Help with my error"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-10T19:10:00Z"
+    },
+    "session_id": "STU003-09-8529",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-10T20:54:00Z"
+    },
+    "session_id": "STU001-09-4872",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-10T21:12:00Z"
+    },
+    "session_id": "STU001-09-4872",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes",
+    "duration_s": 240,
+    "completed": true
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-10T21:27:00Z"
+    },
+    "session_id": "STU001-09-4872",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-10T21:33:00Z"
+    },
+    "session_id": "STU001-09-4872",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-11T08:54:00Z"
+    },
+    "session_id": "STU002-10-7882",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-11T09:10:00Z"
+    },
+    "session_id": "STU002-10-7882",
+    "device": "web",
+    "course_id": "PY101",
+    "thread_title": "Is my approach right?"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-11T09:18:00Z"
+    },
+    "session_id": "STU002-10-7882",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-03-consumers",
+    "score_pct": 92,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-11T09:35:00Z"
+    },
+    "session_id": "STU002-10-7882",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-11T09:48:00Z"
+    },
+    "session_id": "STU002-10-7882",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-01-kafka-basics",
+    "score_pct": 82,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-11T09:53:00Z"
+    },
+    "session_id": "STU002-10-7882",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-11T10:51:00Z"
+    },
+    "session_id": "STU004-10-8538",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-11T11:07:00Z"
+    },
+    "session_id": "STU004-10-8538",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-02-producers",
+    "score_pct": 91,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-11T11:22:00Z"
+    },
+    "session_id": "STU004-10-8538",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-03-consumers",
+    "score_pct": 85,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-11T11:41:00Z"
+    },
+    "session_id": "STU004-10-8538",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 1164,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-11T11:48:00Z"
+    },
+    "session_id": "STU004-10-8538",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU006",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-11T13:00:00Z"
+    },
+    "course_id": "PY101",
+    "submission_id": {
+      "$oid": "08d277df4477373e747ae2df"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-11T14:00:00Z"
+    },
+    "course_id": "PY101",
+    "submission_id": {
+      "$oid": "5268c27d0b0a0cfabc172bfd"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-11T14:36:00Z"
+    },
+    "session_id": "STU003-10-6881",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-11T14:39:00Z"
+    },
+    "session_id": "STU003-10-6881",
+    "device": "web",
+    "course_id": "PY101",
+    "thread_title": "Sharing a useful resource"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-11T14:44:00Z"
+    },
+    "session_id": "STU001-10-8973",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-11T14:56:00Z"
+    },
+    "session_id": "STU001-10-8973",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-01-variables"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-11T15:00:00Z"
+    },
+    "session_id": "STU003-10-6881",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-01-select",
+    "score_pct": 69,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-11T15:09:00Z"
+    },
+    "session_id": "STU001-10-8973",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-05-fstrings"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-11T15:12:00Z"
+    },
+    "session_id": "STU003-10-6881",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-02-data-types",
+    "score_pct": 56,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-11T15:17:00Z"
+    },
+    "session_id": "STU003-10-6881",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-11T15:18:00Z"
+    },
+    "session_id": "STU001-10-8973",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-11T20:15:00Z"
+    },
+    "session_id": "STU006-10-2341",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-11T20:20:00Z"
+    },
+    "session_id": "STU006-10-2341",
+    "device": "web",
+    "course_id": "DE301",
+    "thread_title": "Help with my error"
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-11T20:41:00Z"
+    },
+    "session_id": "STU006-10-2341",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types",
+    "duration_s": 791,
+    "completed": false
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-11T20:47:00Z"
+    },
+    "session_id": "STU006-10-2341",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 1121,
+    "completed": true
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-11T20:51:00Z"
+    },
+    "session_id": "STU006-10-2341",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-11T20:59:00Z"
+    },
+    "session_id": "STU006-10-2341",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-12T13:00:00Z"
+    },
+    "course_id": "PY101",
+    "submission_id": {
+      "$oid": "a79acbfe5715fc9db94fd2cb"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-12T13:46:00Z"
+    },
+    "session_id": "STU004-11-3419",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-12T13:53:00Z"
+    },
+    "session_id": "STU004-11-3419",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-12T14:16:00Z"
+    },
+    "session_id": "STU004-11-3419",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-12T14:25:00Z"
+    },
+    "session_id": "STU004-11-3419",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-12T16:58:00Z"
+    },
+    "session_id": "STU001-11-9701",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-12T17:17:00Z"
+    },
+    "session_id": "STU001-11-9701",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-12T17:39:00Z"
+    },
+    "session_id": "STU001-11-9701",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-12T17:47:00Z"
+    },
+    "session_id": "STU001-11-9701",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-12T18:12:00Z"
+    },
+    "session_id": "STU003-11-5106",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-12T18:35:00Z"
+    },
+    "session_id": "STU003-11-5106",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by",
+    "duration_s": 1022,
+    "completed": true
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-12T18:42:00Z"
+    },
+    "session_id": "STU003-11-5106",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-12T18:49:00Z"
+    },
+    "session_id": "STU003-11-5106",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-12T21:59:00Z"
+    },
+    "session_id": "STU005-11-1674",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-12T22:03:00Z"
+    },
+    "session_id": "STU005-11-1674",
+    "device": "ios",
+    "course_id": "DE301",
+    "thread_title": "Sharing a useful resource"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-12T22:08:00Z"
+    },
+    "session_id": "STU005-11-1674",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-13T01:00:00Z"
+    },
+    "course_id": "PY101",
+    "submission_id": {
+      "$oid": "9d595577335406cb0d085076"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-13T19:26:00Z"
+    },
+    "session_id": "STU003-12-3877",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-13T19:46:00Z"
+    },
+    "session_id": "STU003-12-3877",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-03-group-by",
+    "score_pct": 58,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU003",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-13T19:57:00Z"
+    },
+    "session_id": "STU003-12-3877",
+    "device": "web",
+    "course_id": "SQL201",
+    "thread_title": "Sharing a useful resource"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-13T20:04:00Z"
+    },
+    "session_id": "STU003-12-3877",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-13T20:36:00Z"
+    },
+    "session_id": "STU005-12-7825",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-13T20:59:00Z"
+    },
+    "session_id": "STU005-12-7825",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers",
+    "duration_s": 1109,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-13T21:07:00Z"
+    },
+    "session_id": "STU005-12-7825",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-14T09:56:00Z"
+    },
+    "session_id": "STU001-13-5033",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-14T10:12:00Z"
+    },
+    "session_id": "STU001-13-5033",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-05-fstrings",
+    "duration_s": 1190,
+    "completed": true
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-14T10:18:00Z"
+    },
+    "session_id": "STU001-13-5033",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-14T15:36:00Z"
+    },
+    "session_id": "STU006-13-1945",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-14T15:39:00Z"
+    },
+    "session_id": "STU006-13-1945",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-14T16:00:00Z"
+    },
+    "session_id": "STU006-13-1945",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-14T16:25:00Z"
+    },
+    "session_id": "STU006-13-1945",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-14T16:43:00Z"
+    },
+    "session_id": "STU006-13-1945",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-14T16:47:00Z"
+    },
+    "session_id": "STU006-13-1945",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-14T20:29:00Z"
+    },
+    "session_id": "STU002-13-7209",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-14T20:36:00Z"
+    },
+    "session_id": "STU004-13-8354",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-14T20:43:00Z"
+    },
+    "session_id": "STU004-13-8354",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-14T20:47:00Z"
+    },
+    "session_id": "STU002-13-7209",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-02-data-types",
+    "score_pct": 79,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-14T21:00:00Z"
+    },
+    "session_id": "STU002-13-7209",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-14T21:06:00Z"
+    },
+    "session_id": "STU004-13-8354",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-14T21:20:00Z"
+    },
+    "session_id": "STU002-13-7209",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-14T21:20:00Z"
+    },
+    "session_id": "STU004-13-8354",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers",
+    "duration_s": 1065,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-14T21:22:00Z"
+    },
+    "session_id": "STU004-13-8354",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-14T21:23:00Z"
+    },
+    "session_id": "STU002-13-7209",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-15T07:00:00Z"
+    },
+    "course_id": "SQL201",
+    "submission_id": {
+      "$oid": "76a4895c4e13a20ca84d0fed"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-15T11:42:00Z"
+    },
+    "session_id": "STU001-14-6147",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-15T11:46:00Z"
+    },
+    "session_id": "STU002-14-7658",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-15T11:57:00Z"
+    },
+    "session_id": "STU001-14-6147",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by"
+  },
+  {
+    "student_id": "STU001",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-15T12:10:00Z"
+    },
+    "session_id": "STU001-14-6147",
+    "device": "web",
+    "course_id": "SQL201",
+    "thread_title": "Help with my error"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-15T12:11:00Z"
+    },
+    "session_id": "STU002-14-7658",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions",
+    "duration_s": 1037,
+    "completed": false
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-15T12:19:00Z"
+    },
+    "session_id": "STU001-14-6147",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-15T12:23:00Z"
+    },
+    "session_id": "STU002-14-7658",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-15T12:29:00Z"
+    },
+    "session_id": "STU005-14-2195",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-15T12:46:00Z"
+    },
+    "session_id": "STU005-14-2195",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-15T12:47:00Z"
+    },
+    "session_id": "STU002-14-7658",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 1253,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-15T12:51:00Z"
+    },
+    "session_id": "STU005-14-2195",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-15T13:07:00Z"
+    },
+    "session_id": "STU002-14-7658",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-15T13:13:00Z"
+    },
+    "session_id": "STU002-14-7658",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-15T13:53:00Z"
+    },
+    "session_id": "STU004-14-5703",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-15T14:15:00Z"
+    },
+    "session_id": "STU004-14-5703",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 1067,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-15T14:17:00Z"
+    },
+    "session_id": "STU004-14-5703",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-15T20:07:00Z"
+    },
+    "session_id": "STU003-14-8673",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-15T20:17:00Z"
+    },
+    "session_id": "STU003-14-8673",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-04-indexes",
+    "score_pct": 71,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-15T20:24:00Z"
+    },
+    "session_id": "STU003-14-8673",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-16T09:50:00Z"
+    },
+    "session_id": "STU003-15-7464",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-16T10:10:00Z"
+    },
+    "session_id": "STU003-15-7464",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-16T10:16:00Z"
+    },
+    "session_id": "STU003-15-7464",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-16T12:16:00Z"
+    },
+    "session_id": "STU002-15-4777",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-16T12:29:00Z"
+    },
+    "session_id": "STU002-15-4777",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-05-fstrings"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-16T12:33:00Z"
+    },
+    "session_id": "STU002-15-4777",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-16T15:58:00Z"
+    },
+    "session_id": "STU004-15-4084",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-16T16:00:00Z"
+    },
+    "course_id": "SQL201",
+    "submission_id": {
+      "$oid": "c94622275cf4f820e89ba6c0"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-16T16:17:00Z"
+    },
+    "session_id": "STU004-15-4084",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select"
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-16T16:23:00Z"
+    },
+    "session_id": "STU004-15-4084",
+    "device": "ios",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-03-group-by",
+    "score_pct": 97,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-16T16:27:00Z"
+    },
+    "session_id": "STU004-15-4084",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-16T16:36:00Z"
+    },
+    "session_id": "STU004-15-4084",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-16T20:08:00Z"
+    },
+    "session_id": "STU006-15-7887",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-16T20:25:00Z"
+    },
+    "session_id": "STU006-15-7887",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-04-airflow-dags",
+    "score_pct": 51,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU006",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-16T20:48:00Z"
+    },
+    "session_id": "STU006-15-7887",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-01-variables",
+    "score_pct": 33,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-16T21:07:00Z"
+    },
+    "session_id": "STU006-15-7887",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-16T21:09:00Z"
+    },
+    "session_id": "STU006-15-7887",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-17T05:00:00Z"
+    },
+    "course_id": "SQL201",
+    "submission_id": {
+      "$oid": "bb9cbfa2c9c6005642499d23"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-17T11:13:00Z"
+    },
+    "session_id": "STU002-16-8933",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-17T11:19:00Z"
+    },
+    "session_id": "STU002-16-8933",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-03-consumers",
+    "score_pct": 81,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-17T11:22:00Z"
+    },
+    "session_id": "STU002-16-8933",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers",
+    "duration_s": 681,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-17T11:42:00Z"
+    },
+    "session_id": "STU002-16-8933",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-17T11:51:00Z"
+    },
+    "session_id": "STU002-16-8933",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-17T13:38:00Z"
+    },
+    "session_id": "STU005-16-3353",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-17T13:52:00Z"
+    },
+    "session_id": "STU005-16-3353",
+    "device": "ios",
+    "course_id": "DE301",
+    "thread_title": "Sharing a useful resource"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-17T14:05:00Z"
+    },
+    "session_id": "STU005-16-3353",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-17T14:22:00Z"
+    },
+    "session_id": "STU005-16-3353",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-17T14:24:00Z"
+    },
+    "session_id": "STU005-16-3353",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-17T16:33:00Z"
+    },
+    "session_id": "STU004-16-3600",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-17T16:45:00Z"
+    },
+    "session_id": "STU004-16-3600",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-17T17:08:00Z"
+    },
+    "session_id": "STU004-16-3600",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics",
+    "duration_s": 795,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-17T17:20:00Z"
+    },
+    "session_id": "STU004-16-3600",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-17T17:27:00Z"
+    },
+    "session_id": "STU004-16-3600",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-17T17:36:00Z"
+    },
+    "session_id": "STU001-16-2638",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-17T17:55:00Z"
+    },
+    "session_id": "STU001-16-2638",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-17T17:58:00Z"
+    },
+    "session_id": "STU001-16-2638",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-18T09:37:00Z"
+    },
+    "session_id": "STU004-17-3317",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-18T09:55:00Z"
+    },
+    "session_id": "STU002-17-1200",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-18T10:00:00Z"
+    },
+    "session_id": "STU004-17-3317",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes",
+    "duration_s": 384,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-18T10:12:00Z"
+    },
+    "session_id": "STU004-17-3317",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers",
+    "duration_s": 381,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-18T10:13:00Z"
+    },
+    "session_id": "STU002-17-1200",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU002",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-18T10:24:00Z"
+    },
+    "session_id": "STU002-17-1200",
+    "device": "web",
+    "course_id": "PY101",
+    "thread_title": "Help with my error"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-18T10:35:00Z"
+    },
+    "session_id": "STU004-17-3317",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 861,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-18T10:39:00Z"
+    },
+    "session_id": "STU002-17-1200",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-05-fstrings",
+    "duration_s": 1409,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-18T10:41:00Z"
+    },
+    "session_id": "STU004-17-3317",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-18T10:43:00Z"
+    },
+    "session_id": "STU002-17-1200",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-18T11:23:00Z"
+    },
+    "session_id": "STU001-17-5669",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-18T11:43:00Z"
+    },
+    "session_id": "STU001-17-5669",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select",
+    "duration_s": 1487,
+    "completed": false
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-18T12:07:00Z"
+    },
+    "session_id": "STU001-17-5669",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-18T12:13:00Z"
+    },
+    "session_id": "STU001-17-5669",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-18T17:24:00Z"
+    },
+    "session_id": "STU003-17-7086",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-18T17:42:00Z"
+    },
+    "session_id": "STU003-17-7086",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-18T17:47:00Z"
+    },
+    "session_id": "STU003-17-7086",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-18T20:01:00Z"
+    },
+    "session_id": "STU006-17-5888",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-18T20:21:00Z"
+    },
+    "session_id": "STU006-17-5888",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-18T20:38:00Z"
+    },
+    "session_id": "STU006-17-5888",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-18T20:44:00Z"
+    },
+    "session_id": "STU006-17-5888",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-18T20:54:00Z"
+    },
+    "session_id": "STU006-17-5888",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-01-variables"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-18T20:56:00Z"
+    },
+    "session_id": "STU006-17-5888",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-19T09:56:00Z"
+    },
+    "session_id": "STU001-18-2753",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-19T10:08:00Z"
+    },
+    "session_id": "STU001-18-2753",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by",
+    "duration_s": 536,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-19T10:13:00Z"
+    },
+    "session_id": "STU004-18-6598",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-19T10:23:00Z"
+    },
+    "session_id": "STU004-18-6598",
+    "device": "ios",
+    "course_id": "DE301",
+    "thread_title": "Help with my error"
+  },
+  {
+    "student_id": "STU001",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-19T10:27:00Z"
+    },
+    "session_id": "STU001-18-2753",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select",
+    "duration_s": 309,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-19T10:29:00Z"
+    },
+    "session_id": "STU004-18-6598",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select",
+    "duration_s": 1475,
+    "completed": true
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-19T10:33:00Z"
+    },
+    "session_id": "STU001-18-2753",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-19T10:51:00Z"
+    },
+    "session_id": "STU002-18-5978",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-19T10:51:00Z"
+    },
+    "session_id": "STU004-18-6598",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-19T10:57:00Z"
+    },
+    "session_id": "STU002-18-5978",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions",
+    "duration_s": 1361,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-19T11:02:00Z"
+    },
+    "session_id": "STU002-18-5978",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-19T11:16:00Z"
+    },
+    "session_id": "STU004-18-6598",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-02-producers",
+    "score_pct": 100,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-19T11:24:00Z"
+    },
+    "session_id": "STU004-18-6598",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-19T12:24:00Z"
+    },
+    "session_id": "STU005-18-7850",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-19T12:37:00Z"
+    },
+    "session_id": "STU005-18-7850",
+    "device": "ios",
+    "course_id": "DE301",
+    "thread_title": "Is my approach right?"
+  },
+  {
+    "student_id": "STU005",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-19T12:55:00Z"
+    },
+    "session_id": "STU005-18-7850",
+    "device": "ios",
+    "course_id": "DE301",
+    "thread_title": "Question about the rubric"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-19T13:01:00Z"
+    },
+    "session_id": "STU005-18-7850",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-19T16:00:00Z"
+    },
+    "course_id": "DE301",
+    "submission_id": {
+      "$oid": "b9054f3e880d3fd0edf79e5b"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-19T18:04:00Z"
+    },
+    "session_id": "STU003-18-8606",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-19T18:10:00Z"
+    },
+    "session_id": "STU003-18-8606",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-01-variables"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-19T18:28:00Z"
+    },
+    "session_id": "STU003-18-8606",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-19T18:43:00Z"
+    },
+    "session_id": "STU003-18-8606",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-19T18:47:00Z"
+    },
+    "session_id": "STU003-18-8606",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-19T20:00:00Z"
+    },
+    "course_id": "DE301",
+    "submission_id": {
+      "$oid": "36b5b8b18772bfb2e785e139"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-20T03:00:00Z"
+    },
+    "course_id": "DE301",
+    "submission_id": {
+      "$oid": "9d4695bb9102a50f506c20dc"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-20T14:41:00Z"
+    },
+    "session_id": "STU003-19-2622",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-20T14:52:00Z"
+    },
+    "session_id": "STU003-19-2622",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-20T15:01:00Z"
+    },
+    "session_id": "STU005-19-2475",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-20T15:09:00Z"
+    },
+    "session_id": "STU003-19-2622",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-20T15:11:00Z"
+    },
+    "session_id": "STU005-19-2475",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers"
+  },
+  {
+    "student_id": "STU003",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-20T15:15:00Z"
+    },
+    "session_id": "STU003-19-2622",
+    "device": "web",
+    "course_id": "PY101",
+    "thread_title": "Sharing a useful resource"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-20T15:15:00Z"
+    },
+    "session_id": "STU005-19-2475",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-20T15:27:00Z"
+    },
+    "session_id": "STU005-19-2475",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics",
+    "duration_s": 1002,
+    "completed": true
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-20T15:30:00Z"
+    },
+    "session_id": "STU003-19-2622",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-20T15:39:00Z"
+    },
+    "session_id": "STU003-19-2622",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-20T15:41:00Z"
+    },
+    "session_id": "STU005-19-2475",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-03-consumers",
+    "score_pct": 53,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-20T15:51:00Z"
+    },
+    "session_id": "STU005-19-2475",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "submission_upload",
+    "ts": {
+      "$date": "2026-09-20T16:00:00Z"
+    },
+    "course_id": "DE301",
+    "submission_id": {
+      "$oid": "fb08478880e9985cdee56fa2"
+    },
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-20T20:33:00Z"
+    },
+    "session_id": "STU002-19-7232",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-20T20:45:00Z"
+    },
+    "session_id": "STU002-19-7232",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-04-airflow-dags",
+    "score_pct": 83,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU002",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-20T21:07:00Z"
+    },
+    "session_id": "STU002-19-7232",
+    "device": "web",
+    "course_id": "PY101",
+    "thread_title": "Is my approach right?"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-20T21:18:00Z"
+    },
+    "session_id": "STU002-19-7232",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types",
+    "duration_s": 611,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-20T21:26:00Z"
+    },
+    "session_id": "STU002-19-7232",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-20T21:35:00Z"
+    },
+    "session_id": "STU002-19-7232",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-21T08:00:00Z"
+    },
+    "session_id": "STU001-20-6464",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-21T08:08:00Z"
+    },
+    "session_id": "STU001-20-6464",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-04-indexes",
+    "score_pct": 73,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-21T08:33:00Z"
+    },
+    "session_id": "STU001-20-6464",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-05-fstrings",
+    "score_pct": 71,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-21T08:43:00Z"
+    },
+    "session_id": "STU001-20-6464",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-21T11:23:00Z"
+    },
+    "session_id": "STU005-20-5728",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-21T11:42:00Z"
+    },
+    "session_id": "STU005-20-5728",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-21T11:48:00Z"
+    },
+    "session_id": "STU005-20-5728",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-21T12:02:00Z"
+    },
+    "session_id": "STU002-20-4792",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-21T12:27:00Z"
+    },
+    "session_id": "STU002-20-4792",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-01-kafka-basics",
+    "score_pct": 95,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-21T12:43:00Z"
+    },
+    "session_id": "STU002-20-4792",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-02-data-types"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-21T12:54:00Z"
+    },
+    "session_id": "STU002-20-4792",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-01-variables",
+    "score_pct": 66,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-21T13:00:00Z"
+    },
+    "session_id": "STU002-20-4792",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-21T13:43:00Z"
+    },
+    "session_id": "STU004-20-4891",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-21T14:00:00Z"
+    },
+    "session_id": "STU004-20-4891",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-21T14:18:00Z"
+    },
+    "session_id": "STU004-20-4891",
+    "device": "ios",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-02-joins",
+    "score_pct": 79,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-21T14:35:00Z"
+    },
+    "session_id": "STU004-20-4891",
+    "device": "ios",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-04-indexes",
+    "score_pct": 83,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-21T14:44:00Z"
+    },
+    "session_id": "STU004-20-4891",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-02-producers",
+    "score_pct": 100,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-21T14:53:00Z"
+    },
+    "session_id": "STU004-20-4891",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-21T15:38:00Z"
+    },
+    "session_id": "STU006-20-1797",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-21T15:53:00Z"
+    },
+    "session_id": "STU006-20-1797",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-05-fstrings"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-21T15:57:00Z"
+    },
+    "session_id": "STU006-20-1797",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-21T16:02:00Z"
+    },
+    "session_id": "STU006-20-1797",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-22T09:42:00Z"
+    },
+    "session_id": "STU003-21-4475",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-22T09:55:00Z"
+    },
+    "session_id": "STU003-21-4475",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-22T10:00:00Z"
+    },
+    "session_id": "STU003-21-4475",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-22T10:27:00Z"
+    },
+    "session_id": "STU001-21-3088",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-22T10:41:00Z"
+    },
+    "session_id": "STU001-21-3088",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-01-select",
+    "score_pct": 83,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-22T10:46:00Z"
+    },
+    "session_id": "STU001-21-3088",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-22T15:07:00Z"
+    },
+    "session_id": "STU002-21-8679",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-22T15:18:00Z"
+    },
+    "session_id": "STU002-21-8679",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 1016,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-22T15:34:00Z"
+    },
+    "session_id": "STU002-21-8679",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-05-fstrings",
+    "score_pct": 72,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-22T15:58:00Z"
+    },
+    "session_id": "STU002-21-8679",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-05-fstrings",
+    "score_pct": 82,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-22T16:04:00Z"
+    },
+    "session_id": "STU002-21-8679",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-22T21:23:00Z"
+    },
+    "session_id": "STU004-21-2680",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-22T21:28:00Z"
+    },
+    "session_id": "STU004-21-2680",
+    "device": "ios",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-03-group-by",
+    "score_pct": 81,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-22T21:32:00Z"
+    },
+    "session_id": "STU004-21-2680",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-22T21:39:00Z"
+    },
+    "session_id": "STU005-21-2946",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-22T21:54:00Z"
+    },
+    "session_id": "STU005-21-2946",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-22T22:01:00Z"
+    },
+    "session_id": "STU005-21-2946",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-22T22:09:00Z"
+    },
+    "session_id": "STU005-21-2946",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-23T16:02:00Z"
+    },
+    "session_id": "STU005-22-1742",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-23T16:27:00Z"
+    },
+    "session_id": "STU005-22-1742",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-23T16:37:00Z"
+    },
+    "session_id": "STU005-22-1742",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-23T21:27:00Z"
+    },
+    "session_id": "STU004-22-2502",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-23T21:41:00Z"
+    },
+    "session_id": "STU004-22-2502",
+    "device": "ios",
+    "course_id": "SQL201",
+    "thread_title": "Help with my error"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-23T21:58:00Z"
+    },
+    "session_id": "STU006-22-6224",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-23T22:00:00Z"
+    },
+    "session_id": "STU004-22-2502",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes"
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-23T22:03:00Z"
+    },
+    "session_id": "STU004-22-2502",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU006",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-23T22:10:00Z"
+    },
+    "session_id": "STU006-22-6224",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-05-fstrings",
+    "score_pct": 35,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-23T22:14:00Z"
+    },
+    "session_id": "STU006-22-6224",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 478,
+    "completed": true
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-23T22:34:00Z"
+    },
+    "session_id": "STU006-22-6224",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers",
+    "duration_s": 1437,
+    "completed": true
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-23T22:44:00Z"
+    },
+    "session_id": "STU006-22-6224",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-24T09:53:00Z"
+    },
+    "session_id": "STU003-23-4394",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-24T10:06:00Z"
+    },
+    "session_id": "STU003-23-4394",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-01-select",
+    "score_pct": 50,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-24T10:26:00Z"
+    },
+    "session_id": "STU003-23-4394",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-24T10:29:00Z"
+    },
+    "session_id": "STU003-23-4394",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-24T13:14:00Z"
+    },
+    "session_id": "STU004-23-1461",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-24T13:39:00Z"
+    },
+    "session_id": "STU004-23-1461",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers",
+    "duration_s": 401,
+    "completed": true
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-24T13:44:00Z"
+    },
+    "session_id": "STU006-23-7821",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-24T13:56:00Z"
+    },
+    "session_id": "STU006-23-7821",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-05-fstrings"
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-24T14:04:00Z"
+    },
+    "session_id": "STU004-23-1461",
+    "device": "ios",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-04-indexes",
+    "score_pct": 81,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU006",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-24T14:06:00Z"
+    },
+    "session_id": "STU006-23-7821",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-03-consumers",
+    "score_pct": 66,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-24T14:07:00Z"
+    },
+    "session_id": "STU004-23-1461",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-24T14:10:00Z"
+    },
+    "session_id": "STU006-23-7821",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 1261,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-24T14:17:00Z"
+    },
+    "session_id": "STU004-23-1461",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-24T14:20:00Z"
+    },
+    "session_id": "STU006-23-7821",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-24T14:23:00Z"
+    },
+    "session_id": "STU006-23-7821",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-24T15:09:00Z"
+    },
+    "session_id": "STU005-23-9446",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-24T15:31:00Z"
+    },
+    "session_id": "STU005-23-9446",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-24T15:52:00Z"
+    },
+    "session_id": "STU005-23-9446",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-24T16:02:00Z"
+    },
+    "session_id": "STU005-23-9446",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-24T17:02:00Z"
+    },
+    "session_id": "STU002-23-3870",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-24T17:13:00Z"
+    },
+    "session_id": "STU002-23-3870",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-24T17:36:00Z"
+    },
+    "session_id": "STU002-23-3870",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-01-kafka-basics",
+    "score_pct": 88,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-24T17:49:00Z"
+    },
+    "session_id": "STU002-23-3870",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers",
+    "duration_s": 795,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-24T18:01:00Z"
+    },
+    "session_id": "STU002-23-3870",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 1246,
+    "completed": true
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-24T18:04:00Z"
+    },
+    "session_id": "STU002-23-3870",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-24T18:06:00Z"
+    },
+    "session_id": "STU001-23-6794",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-24T18:16:00Z"
+    },
+    "session_id": "STU001-23-6794",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-02-data-types",
+    "score_pct": 96,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-24T18:29:00Z"
+    },
+    "session_id": "STU001-23-6794",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-04-functions",
+    "score_pct": 94,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-24T18:40:00Z"
+    },
+    "session_id": "STU001-23-6794",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-01-variables"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-24T18:44:00Z"
+    },
+    "session_id": "STU001-23-6794",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-02-joins",
+    "score_pct": 62,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-24T18:51:00Z"
+    },
+    "session_id": "STU001-23-6794",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-25T12:52:00Z"
+    },
+    "session_id": "STU001-24-4728",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-25T13:16:00Z"
+    },
+    "session_id": "STU001-24-4728",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-25T13:16:00Z"
+    },
+    "session_id": "STU002-24-6296",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-25T13:21:00Z"
+    },
+    "session_id": "STU001-24-4728",
+    "device": "web",
+    "course_id": "SQL201",
+    "thread_title": "Sharing a useful resource"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-25T13:31:00Z"
+    },
+    "session_id": "STU001-24-4728",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-25T13:35:00Z"
+    },
+    "session_id": "STU002-24-6296",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-01-kafka-basics",
+    "score_pct": 94,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-25T13:44:00Z"
+    },
+    "session_id": "STU002-24-6296",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-25T15:45:00Z"
+    },
+    "session_id": "STU005-24-5911",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-25T15:59:00Z"
+    },
+    "session_id": "STU005-24-5911",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-25T16:20:00Z"
+    },
+    "session_id": "STU005-24-5911",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU005",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-25T16:31:00Z"
+    },
+    "session_id": "STU005-24-5911",
+    "device": "ios",
+    "course_id": "DE301",
+    "thread_title": "Is my approach right?"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-25T16:52:00Z"
+    },
+    "session_id": "STU005-24-5911",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 1408,
+    "completed": false
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-25T17:00:00Z"
+    },
+    "session_id": "STU005-24-5911",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-25T18:55:00Z"
+    },
+    "session_id": "STU003-24-1422",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-25T19:09:00Z"
+    },
+    "session_id": "STU003-24-1422",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-02-joins",
+    "score_pct": 60,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-25T19:20:00Z"
+    },
+    "session_id": "STU003-24-1422",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-25T19:30:00Z"
+    },
+    "session_id": "STU003-24-1422",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-25T19:38:00Z"
+    },
+    "session_id": "STU004-24-9647",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-25T19:50:00Z"
+    },
+    "session_id": "STU004-24-9647",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-25T20:00:00Z"
+    },
+    "session_id": "STU004-24-9647",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-25T20:05:00Z"
+    },
+    "session_id": "STU004-24-9647",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-25T20:28:00Z"
+    },
+    "session_id": "STU004-24-9647",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers",
+    "duration_s": 414,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-25T20:30:00Z"
+    },
+    "session_id": "STU004-24-9647",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-26T14:03:00Z"
+    },
+    "session_id": "STU002-25-4073",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-26T14:26:00Z"
+    },
+    "session_id": "STU002-25-4073",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-26T14:37:00Z"
+    },
+    "session_id": "STU002-25-4073",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts",
+    "duration_s": 1017,
+    "completed": false
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-26T14:43:00Z"
+    },
+    "session_id": "STU002-25-4073",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-26T14:48:00Z"
+    },
+    "session_id": "STU002-25-4073",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-26T15:54:00Z"
+    },
+    "session_id": "STU006-25-7079",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-26T15:58:00Z"
+    },
+    "session_id": "STU006-25-7079",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-05-fstrings"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-26T16:00:00Z"
+    },
+    "session_id": "STU006-25-7079",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-26T17:22:00Z"
+    },
+    "session_id": "STU004-25-4941",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-26T17:46:00Z"
+    },
+    "session_id": "STU004-25-4941",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 858,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-26T18:01:00Z"
+    },
+    "session_id": "STU004-25-4941",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-01-kafka-basics",
+    "score_pct": 97,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-26T18:04:00Z"
+    },
+    "session_id": "STU004-25-4941",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select"
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-26T18:14:00Z"
+    },
+    "session_id": "STU004-25-4941",
+    "device": "ios",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-01-select",
+    "score_pct": 91,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-26T18:21:00Z"
+    },
+    "session_id": "STU004-25-4941",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-27T09:47:00Z"
+    },
+    "session_id": "STU003-26-2041",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-27T10:01:00Z"
+    },
+    "session_id": "STU003-26-2041",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-01-variables",
+    "duration_s": 1045,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-27T10:02:00Z"
+    },
+    "session_id": "STU004-26-6772",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-27T10:25:00Z"
+    },
+    "session_id": "STU003-26-2041",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-04-indexes",
+    "duration_s": 1437,
+    "completed": false
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-27T10:26:00Z"
+    },
+    "session_id": "STU004-26-6772",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 1413,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-27T10:31:00Z"
+    },
+    "session_id": "STU004-26-6772",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 195,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-27T10:40:00Z"
+    },
+    "session_id": "STU004-26-6772",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-03-consumers",
+    "score_pct": 100,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-27T10:43:00Z"
+    },
+    "session_id": "STU003-26-2041",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-04-indexes",
+    "score_pct": 63,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-27T10:48:00Z"
+    },
+    "session_id": "STU003-26-2041",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-03-lists-dicts",
+    "score_pct": 56,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-27T10:48:00Z"
+    },
+    "session_id": "STU004-26-6772",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-27T10:52:00Z"
+    },
+    "session_id": "STU003-26-2041",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-27T10:52:00Z"
+    },
+    "session_id": "STU005-26-4968",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-27T11:01:00Z"
+    },
+    "session_id": "STU005-26-4968",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-27T11:09:00Z"
+    },
+    "session_id": "STU005-26-4968",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-27T21:04:00Z"
+    },
+    "session_id": "STU006-26-4082",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-27T21:13:00Z"
+    },
+    "session_id": "STU006-26-4082",
+    "device": "web",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-03-consumers",
+    "score_pct": 49,
+    "attempt": 1
+  },
+  {
+    "student_id": "STU006",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-27T21:22:00Z"
+    },
+    "session_id": "STU006-26-4082",
+    "device": "web",
+    "course_id": "PY101",
+    "thread_title": "Question about the rubric"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-27T21:27:00Z"
+    },
+    "session_id": "STU006-26-4082",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-28T10:26:00Z"
+    },
+    "session_id": "STU005-27-4340",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-28T10:30:00Z"
+    },
+    "session_id": "STU005-27-4340",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 544,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-28T10:49:00Z"
+    },
+    "session_id": "STU005-27-4340",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-28T11:09:00Z"
+    },
+    "session_id": "STU005-27-4340",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-28T11:31:00Z"
+    },
+    "session_id": "STU005-27-4340",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers",
+    "duration_s": 691,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-28T11:36:00Z"
+    },
+    "session_id": "STU005-27-4340",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-28T12:39:00Z"
+    },
+    "session_id": "STU003-27-9984",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-28T13:01:00Z"
+    },
+    "session_id": "STU003-27-9984",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions",
+    "duration_s": 1155,
+    "completed": true
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-28T13:26:00Z"
+    },
+    "session_id": "STU003-27-9984",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins"
+  },
+  {
+    "student_id": "STU003",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-28T13:43:00Z"
+    },
+    "session_id": "STU003-27-9984",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-04-functions",
+    "score_pct": 48,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-28T13:51:00Z"
+    },
+    "session_id": "STU003-27-9984",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-28T14:43:00Z"
+    },
+    "session_id": "STU001-27-9785",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-28T14:49:00Z"
+    },
+    "session_id": "STU001-27-9785",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-03-lists-dicts",
+    "score_pct": 75,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU001",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-28T14:55:00Z"
+    },
+    "session_id": "STU001-27-9785",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts",
+    "duration_s": 762,
+    "completed": true
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-28T15:10:00Z"
+    },
+    "session_id": "STU001-27-9785",
+    "device": "web",
+    "course_id": "PY101",
+    "quiz_id": "quiz-py-02-data-types",
+    "score_pct": 78,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-28T15:18:00Z"
+    },
+    "session_id": "STU001-27-9785",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-28T21:34:00Z"
+    },
+    "session_id": "STU004-27-8756",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-28T21:57:00Z"
+    },
+    "session_id": "STU004-27-8756",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers"
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-28T22:20:00Z"
+    },
+    "session_id": "STU004-27-8756",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU004",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-28T22:36:00Z"
+    },
+    "session_id": "STU004-27-8756",
+    "device": "ios",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-04-indexes",
+    "score_pct": 95,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-28T22:43:00Z"
+    },
+    "session_id": "STU004-27-8756",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-29T08:33:00Z"
+    },
+    "session_id": "STU001-28-9821",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-29T08:49:00Z"
+    },
+    "session_id": "STU001-28-9821",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by"
+  },
+  {
+    "student_id": "STU001",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-29T09:13:00Z"
+    },
+    "session_id": "STU001-28-9821",
+    "device": "web",
+    "course_id": "SQL201",
+    "quiz_id": "quiz-sql-03-group-by",
+    "score_pct": 71,
+    "attempt": 3
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-29T09:21:00Z"
+    },
+    "session_id": "STU001-28-9821",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-29T10:31:00Z"
+    },
+    "session_id": "STU004-28-9151",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-29T10:36:00Z"
+    },
+    "session_id": "STU004-28-9151",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select",
+    "duration_s": 1001,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-29T10:56:00Z"
+    },
+    "session_id": "STU004-28-9151",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-29T11:09:00Z"
+    },
+    "session_id": "STU004-28-9151",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers",
+    "duration_s": 1033,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-29T11:17:00Z"
+    },
+    "session_id": "STU004-28-9151",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-29T12:49:00Z"
+    },
+    "session_id": "STU005-28-5735",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-29T13:02:00Z"
+    },
+    "session_id": "STU005-28-5735",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring",
+    "duration_s": 680,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "quiz_attempt",
+    "ts": {
+      "$date": "2026-09-29T13:17:00Z"
+    },
+    "session_id": "STU005-28-5735",
+    "device": "ios",
+    "course_id": "DE301",
+    "quiz_id": "quiz-de-02-producers",
+    "score_pct": 61,
+    "attempt": 2
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-29T13:20:00Z"
+    },
+    "session_id": "STU005-28-5735",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-29T19:10:00Z"
+    },
+    "session_id": "STU002-28-6091",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-29T19:15:00Z"
+    },
+    "session_id": "STU002-28-6091",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-29T19:24:00Z"
+    },
+    "session_id": "STU002-28-6091",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-29T19:38:00Z"
+    },
+    "session_id": "STU006-28-4350",
+    "device": "web"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-29T19:58:00Z"
+    },
+    "session_id": "STU006-28-4350",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts"
+  },
+  {
+    "student_id": "STU006",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-29T20:15:00Z"
+    },
+    "session_id": "STU006-28-4350",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-03-consumers",
+    "duration_s": 751,
+    "completed": true
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-29T20:32:00Z"
+    },
+    "session_id": "STU006-28-4350",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU006",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-29T20:41:00Z"
+    },
+    "session_id": "STU006-28-4350",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags"
+  },
+  {
+    "student_id": "STU006",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-29T20:43:00Z"
+    },
+    "session_id": "STU006-28-4350",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-30T09:41:00Z"
+    },
+    "session_id": "STU002-29-3522",
+    "device": "web"
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-30T10:00:00Z"
+    },
+    "session_id": "STU002-29-3522",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-04-airflow-dags",
+    "duration_s": 1108,
+    "completed": false
+  },
+  {
+    "student_id": "STU002",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-30T10:17:00Z"
+    },
+    "session_id": "STU002-29-3522",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions",
+    "duration_s": 510,
+    "completed": false
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-30T10:22:00Z"
+    },
+    "session_id": "STU002-29-3522",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions"
+  },
+  {
+    "student_id": "STU002",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-30T10:41:00Z"
+    },
+    "session_id": "STU002-29-3522",
+    "device": "web",
+    "course_id": "DE301",
+    "lesson_id": "de-01-kafka-basics"
+  },
+  {
+    "student_id": "STU004",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-30T10:44:00Z"
+    },
+    "session_id": "STU004-29-8272",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU002",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-30T10:47:00Z"
+    },
+    "session_id": "STU002-29-3522",
+    "device": "web"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-30T10:48:00Z"
+    },
+    "session_id": "STU004-29-8272",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by",
+    "duration_s": 1379,
+    "completed": false
+  },
+  {
+    "student_id": "STU004",
+    "event": "forum_post",
+    "ts": {
+      "$date": "2026-09-30T11:11:00Z"
+    },
+    "session_id": "STU004-29-8272",
+    "device": "ios",
+    "course_id": "SQL201",
+    "thread_title": "Help with my error"
+  },
+  {
+    "student_id": "STU004",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-30T11:25:00Z"
+    },
+    "session_id": "STU004-29-8272",
+    "device": "ios",
+    "course_id": "SQL201",
+    "lesson_id": "sql-02-joins",
+    "duration_s": 183,
+    "completed": true
+  },
+  {
+    "student_id": "STU004",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-30T11:34:00Z"
+    },
+    "session_id": "STU004-29-8272",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-30T13:25:00Z"
+    },
+    "session_id": "STU001-29-5844",
+    "device": "web"
+  },
+  {
+    "student_id": "STU001",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-30T13:41:00Z"
+    },
+    "session_id": "STU001-29-5844",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-04-functions",
+    "duration_s": 476,
+    "completed": true
+  },
+  {
+    "student_id": "STU001",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-30T13:56:00Z"
+    },
+    "session_id": "STU001-29-5844",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-01-select",
+    "duration_s": 742,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-30T13:59:00Z"
+    },
+    "session_id": "STU005-29-8247",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU001",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-30T14:04:00Z"
+    },
+    "session_id": "STU001-29-5844",
+    "device": "web"
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-30T14:08:00Z"
+    },
+    "session_id": "STU005-29-8247",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU005",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-30T14:28:00Z"
+    },
+    "session_id": "STU005-29-8247",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-02-producers",
+    "duration_s": 343,
+    "completed": true
+  },
+  {
+    "student_id": "STU005",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-30T14:38:00Z"
+    },
+    "session_id": "STU005-29-8247",
+    "device": "ios",
+    "course_id": "DE301",
+    "lesson_id": "de-05-monitoring"
+  },
+  {
+    "student_id": "STU005",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-30T14:43:00Z"
+    },
+    "session_id": "STU005-29-8247",
+    "device": "ios"
+  },
+  {
+    "student_id": "STU003",
+    "event": "login",
+    "ts": {
+      "$date": "2026-09-30T14:46:00Z"
+    },
+    "session_id": "STU003-29-2557",
+    "device": "web"
+  },
+  {
+    "student_id": "STU003",
+    "event": "video_watch",
+    "ts": {
+      "$date": "2026-09-30T14:59:00Z"
+    },
+    "session_id": "STU003-29-2557",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-03-lists-dicts",
+    "duration_s": 432,
+    "completed": true
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-30T15:04:00Z"
+    },
+    "session_id": "STU003-29-2557",
+    "device": "web",
+    "course_id": "PY101",
+    "lesson_id": "py-01-variables"
+  },
+  {
+    "student_id": "STU003",
+    "event": "lesson_view",
+    "ts": {
+      "$date": "2026-09-30T15:20:00Z"
+    },
+    "session_id": "STU003-29-2557",
+    "device": "web",
+    "course_id": "SQL201",
+    "lesson_id": "sql-03-group-by"
+  },
+  {
+    "student_id": "STU003",
+    "event": "logout",
+    "ts": {
+      "$date": "2026-09-30T15:24:00Z"
+    },
+    "session_id": "STU003-29-2557",
+    "device": "web"
+  }
+]

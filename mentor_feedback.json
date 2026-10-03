@@ -1,0 +1,460 @@
+[
+  {
+    "_id": {
+      "$oid": "134f313855bf4d6389c1e0af"
+    },
+    "submission_id": {
+      "$oid": "5268c27d0b0a0cfabc172bfd"
+    },
+    "student_id": "STU001",
+    "course_id": "PY101",
+    "teacher_id": "TCH001",
+    "created_at": {
+      "$date": "2026-09-12T15:00:00Z"
+    },
+    "tags": [
+      "data-types",
+      "formatting"
+    ],
+    "rating": 4,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH001",
+        "role": "teacher",
+        "msg": "Clean use of dictionaries for the records. f-string output is neat and readable.",
+        "at": {
+          "$date": "2026-09-12T15:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "33c012523d74e8e8e2aace6c"
+    },
+    "submission_id": {
+      "$oid": "bb9cbfa2c9c6005642499d23"
+    },
+    "student_id": "STU001",
+    "course_id": "SQL201",
+    "teacher_id": "TCH002",
+    "created_at": {
+      "$date": "2026-09-20T08:00:00Z"
+    },
+    "tags": [
+      "joins",
+      "aggregation"
+    ],
+    "rating": 4,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH002",
+        "role": "teacher",
+        "msg": "Query 4 uses an INNER JOIN and silently drops customers with no orders. Should be LEFT JOIN.",
+        "at": {
+          "$date": "2026-09-20T08:00:00Z"
+        }
+      },
+      {
+        "by": "TCH002",
+        "role": "teacher",
+        "msg": "Avoid SELECT * in the final report queries.",
+        "at": {
+          "$date": "2026-09-20T15:00:00Z"
+        }
+      },
+      {
+        "by": "STU001",
+        "role": "student",
+        "msg": "Added region to the GROUP BY. Is the HAVING clause right?",
+        "at": {
+          "$date": "2026-09-21T16:00:00Z"
+        }
+      },
+      {
+        "by": "TCH002",
+        "role": "teacher",
+        "msg": "Looks good now. Marking this thread resolved.",
+        "at": {
+          "$date": "2026-09-22T02:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "04dc1ff993e9bc56ca77437c"
+    },
+    "submission_id": {
+      "$oid": "a79acbfe5715fc9db94fd2cb"
+    },
+    "student_id": "STU002",
+    "course_id": "PY101",
+    "teacher_id": "TCH001",
+    "created_at": {
+      "$date": "2026-09-13T17:00:00Z"
+    },
+    "tags": [
+      "formatting",
+      "data-types"
+    ],
+    "rating": 4,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH001",
+        "role": "teacher",
+        "msg": "Clean use of dictionaries for the records. f-string output is neat and readable.",
+        "at": {
+          "$date": "2026-09-13T17:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "09f4a079207a516b66cb46e9"
+    },
+    "submission_id": {
+      "$oid": "fb08478880e9985cdee56fa2"
+    },
+    "student_id": "STU002",
+    "course_id": "DE301",
+    "teacher_id": "TCH003",
+    "created_at": {
+      "$date": "2026-09-21T22:00:00Z"
+    },
+    "tags": [
+      "documentation",
+      "reliability"
+    ],
+    "rating": 5,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH003",
+        "role": "teacher",
+        "msg": "Solid DAG structure. Retries and alerting are configured properly.",
+        "at": {
+          "$date": "2026-09-21T22:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ef05839cbe36e7def32c8047"
+    },
+    "submission_id": {
+      "$oid": "76a4895c4e13a20ca84d0fed"
+    },
+    "student_id": "STU003",
+    "course_id": "SQL201",
+    "teacher_id": "TCH002",
+    "created_at": {
+      "$date": "2026-09-18T08:00:00Z"
+    },
+    "tags": [
+      "aggregation",
+      "joins"
+    ],
+    "rating": 3,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH002",
+        "role": "teacher",
+        "msg": "Query 4 uses an INNER JOIN and silently drops customers with no orders. Should be LEFT JOIN.",
+        "at": {
+          "$date": "2026-09-18T08:00:00Z"
+        }
+      },
+      {
+        "by": "TCH002",
+        "role": "teacher",
+        "msg": "Avoid SELECT * in the final report queries.",
+        "at": {
+          "$date": "2026-09-18T15:00:00Z"
+        }
+      },
+      {
+        "by": "STU003",
+        "role": "student",
+        "msg": "Added region to the GROUP BY. Is the HAVING clause right?",
+        "at": {
+          "$date": "2026-09-19T05:00:00Z"
+        }
+      },
+      {
+        "by": "TCH002",
+        "role": "teacher",
+        "msg": "Looks good now. Marking this thread resolved.",
+        "at": {
+          "$date": "2026-09-19T18:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9f4558f4bbe556a5bf987410"
+    },
+    "submission_id": {
+      "$oid": "9d595577335406cb0d085076"
+    },
+    "student_id": "STU003",
+    "course_id": "PY101",
+    "teacher_id": "TCH001",
+    "created_at": {
+      "$date": "2026-09-16T07:00:00Z"
+    },
+    "tags": [
+      "functions",
+      "data-types"
+    ],
+    "rating": 2,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH001",
+        "role": "teacher",
+        "msg": "Output formatting needs work: align columns with f-string widths, e.g. {name:<15}.",
+        "at": {
+          "$date": "2026-09-16T07:00:00Z"
+        }
+      },
+      {
+        "by": "TCH001",
+        "role": "teacher",
+        "msg": "Functions are doing too much. Split add_student() and print_report() apart.",
+        "at": {
+          "$date": "2026-09-16T10:00:00Z"
+        }
+      },
+      {
+        "by": "STU003",
+        "role": "student",
+        "msg": "Fixed the float conversion, average now works. Could you take another look?",
+        "at": {
+          "$date": "2026-09-17T02:00:00Z"
+        }
+      },
+      {
+        "by": "TCH001",
+        "role": "teacher",
+        "msg": "Looks good now. Marking this thread resolved.",
+        "at": {
+          "$date": "2026-09-17T21:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5bd4bec3f34d421a59a8dabd"
+    },
+    "submission_id": {
+      "$oid": "9d4695bb9102a50f506c20dc"
+    },
+    "student_id": "STU004",
+    "course_id": "DE301",
+    "teacher_id": "TCH003",
+    "created_at": {
+      "$date": "2026-09-21T04:00:00Z"
+    },
+    "tags": [
+      "kafka",
+      "documentation"
+    ],
+    "rating": 5,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH003",
+        "role": "teacher",
+        "msg": "Solid DAG structure. Retries and alerting are configured properly.",
+        "at": {
+          "$date": "2026-09-21T04:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f383dfa5ea41860639b51bc7"
+    },
+    "submission_id": {
+      "$oid": "c94622275cf4f820e89ba6c0"
+    },
+    "student_id": "STU004",
+    "course_id": "SQL201",
+    "teacher_id": "TCH002",
+    "created_at": {
+      "$date": "2026-09-19T18:00:00Z"
+    },
+    "tags": [
+      "performance",
+      "aggregation"
+    ],
+    "rating": 5,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH002",
+        "role": "teacher",
+        "msg": "Good instinct adding an index before the large aggregation query.",
+        "at": {
+          "$date": "2026-09-19T18:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5c60f6ff6c4c96474503969b"
+    },
+    "submission_id": {
+      "$oid": "b9054f3e880d3fd0edf79e5b"
+    },
+    "student_id": "STU005",
+    "course_id": "DE301",
+    "teacher_id": "TCH003",
+    "created_at": {
+      "$date": "2026-09-20T22:00:00Z"
+    },
+    "tags": [
+      "kafka",
+      "documentation"
+    ],
+    "rating": 4,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH003",
+        "role": "teacher",
+        "msg": "Consumer commits offsets before processing, so you can lose data on a crash.",
+        "at": {
+          "$date": "2026-09-20T22:00:00Z"
+        }
+      },
+      {
+        "by": "TCH003",
+        "role": "teacher",
+        "msg": "No dead-letter topic: bad messages will block the consumer. Add one.",
+        "at": {
+          "$date": "2026-09-21T03:00:00Z"
+        }
+      },
+      {
+        "by": "STU005",
+        "role": "student",
+        "msg": "Moved the offset commit after processing, thanks for catching that.",
+        "at": {
+          "$date": "2026-09-22T09:00:00Z"
+        }
+      },
+      {
+        "by": "TCH003",
+        "role": "teacher",
+        "msg": "Looks good now. Marking this thread resolved.",
+        "at": {
+          "$date": "2026-09-23T05:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "8e7eb3e94d60f269a68b88d6"
+    },
+    "submission_id": {
+      "$oid": "08d277df4477373e747ae2df"
+    },
+    "student_id": "STU006",
+    "course_id": "PY101",
+    "teacher_id": "TCH001",
+    "created_at": {
+      "$date": "2026-09-14T15:00:00Z"
+    },
+    "tags": [
+      "functions",
+      "formatting"
+    ],
+    "rating": 2,
+    "resolved": false,
+    "comments": [
+      {
+        "by": "TCH001",
+        "role": "teacher",
+        "msg": "Output formatting needs work: align columns with f-string widths, e.g. {name:<15}.",
+        "at": {
+          "$date": "2026-09-14T15:00:00Z"
+        }
+      },
+      {
+        "by": "TCH001",
+        "role": "teacher",
+        "msg": "Grades are stored as strings, so the average calculation breaks. Convert to float first.",
+        "at": {
+          "$date": "2026-09-14T17:00:00Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "9d3b4acd24c1e9e84144cc7b"
+    },
+    "submission_id": {
+      "$oid": "36b5b8b18772bfb2e785e139"
+    },
+    "student_id": "STU006",
+    "course_id": "DE301",
+    "teacher_id": "TCH003",
+    "created_at": {
+      "$date": "2026-09-22T00:00:00Z"
+    },
+    "tags": [
+      "documentation",
+      "reliability"
+    ],
+    "rating": 2,
+    "resolved": true,
+    "comments": [
+      {
+        "by": "TCH003",
+        "role": "teacher",
+        "msg": "README doesn't explain how to run the pipeline locally.",
+        "at": {
+          "$date": "2026-09-22T00:00:00Z"
+        }
+      },
+      {
+        "by": "TCH003",
+        "role": "teacher",
+        "msg": "No dead-letter topic: bad messages will block the consumer. Add one.",
+        "at": {
+          "$date": "2026-09-22T07:00:00Z"
+        }
+      },
+      {
+        "by": "STU006",
+        "role": "student",
+        "msg": "Moved the offset commit after processing, thanks for catching that.",
+        "at": {
+          "$date": "2026-09-23T10:00:00Z"
+        }
+      },
+      {
+        "by": "TCH003",
+        "role": "teacher",
+        "msg": "Looks good now. Marking this thread resolved.",
+        "at": {
+          "$date": "2026-09-23T20:00:00Z"
+        }
+      }
+    ]
+  }
+]

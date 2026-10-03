@@ -1,0 +1,448 @@
+[
+  {
+    "_id": {
+      "$oid": "5268c27d0b0a0cfabc172bfd"
+    },
+    "student_id": "STU001",
+    "course_id": "PY101",
+    "teacher_id": "TCH001",
+    "project": "Student Record System",
+    "submitted_at": {
+      "$date": "2026-09-11T14:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-12T14:00:00Z"
+    },
+    "artifacts": {
+      "repo": "github.com/stu001/student-record-system",
+      "files": [
+        "records.py",
+        "README.md"
+      ]
+    },
+    "rubric": [
+      {
+        "criterion": "Data Types",
+        "max": 20,
+        "score": 17
+      },
+      {
+        "criterion": "Functions",
+        "max": 30,
+        "score": 26
+      },
+      {
+        "criterion": "Output Formatting",
+        "max": 50,
+        "score": 40
+      }
+    ],
+    "total_score": 83
+  },
+  {
+    "_id": {
+      "$oid": "bb9cbfa2c9c6005642499d23"
+    },
+    "student_id": "STU001",
+    "course_id": "SQL201",
+    "teacher_id": "TCH002",
+    "project": "Sales Analysis Queries",
+    "submitted_at": {
+      "$date": "2026-09-17T05:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-20T05:00:00Z"
+    },
+    "artifacts": {
+      "queries_file": "analysis.sql",
+      "erd_image": "erd.png"
+    },
+    "rubric": [
+      {
+        "criterion": "Joins",
+        "max": 30,
+        "score": 24
+      },
+      {
+        "criterion": "Aggregations",
+        "max": 30,
+        "score": 21
+      },
+      {
+        "criterion": "Query Performance",
+        "max": 40,
+        "score": 31
+      }
+    ],
+    "total_score": 76
+  },
+  {
+    "_id": {
+      "$oid": "a79acbfe5715fc9db94fd2cb"
+    },
+    "student_id": "STU002",
+    "course_id": "PY101",
+    "teacher_id": "TCH001",
+    "project": "Student Record System",
+    "submitted_at": {
+      "$date": "2026-09-12T13:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-13T13:00:00Z"
+    },
+    "artifacts": {
+      "repo": "github.com/stu002/student-record-system",
+      "files": [
+        "records.py",
+        "README.md"
+      ]
+    },
+    "rubric": [
+      {
+        "criterion": "Data Types",
+        "max": 20,
+        "score": 18
+      },
+      {
+        "criterion": "Functions",
+        "max": 30,
+        "score": 23
+      },
+      {
+        "criterion": "Output Formatting",
+        "max": 50,
+        "score": 43
+      }
+    ],
+    "total_score": 84
+  },
+  {
+    "_id": {
+      "$oid": "fb08478880e9985cdee56fa2"
+    },
+    "student_id": "STU002",
+    "course_id": "DE301",
+    "teacher_id": "TCH003",
+    "project": "Kafka Streaming Pipeline",
+    "submitted_at": {
+      "$date": "2026-09-20T16:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-21T16:00:00Z"
+    },
+    "artifacts": {
+      "repo": "github.com/stu002/kafka-pipeline",
+      "dag": "stream_dag.py",
+      "metrics": {
+        "throughput_msgs_s": 2308,
+        "uptime_pct": 96.4
+      }
+    },
+    "rubric": [
+      {
+        "criterion": "Pipeline Design",
+        "max": 30,
+        "score": 25
+      },
+      {
+        "criterion": "Reliability",
+        "max": 40,
+        "score": 33
+      },
+      {
+        "criterion": "Documentation",
+        "max": 30,
+        "score": 28
+      }
+    ],
+    "total_score": 86
+  },
+  {
+    "_id": {
+      "$oid": "76a4895c4e13a20ca84d0fed"
+    },
+    "student_id": "STU003",
+    "course_id": "SQL201",
+    "teacher_id": "TCH002",
+    "project": "Sales Analysis Queries",
+    "submitted_at": {
+      "$date": "2026-09-15T07:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-18T07:00:00Z"
+    },
+    "artifacts": {
+      "queries_file": "analysis.sql",
+      "erd_image": "erd.png"
+    },
+    "rubric": [
+      {
+        "criterion": "Joins",
+        "max": 30,
+        "score": 20
+      },
+      {
+        "criterion": "Aggregations",
+        "max": 30,
+        "score": 19
+      },
+      {
+        "criterion": "Query Performance",
+        "max": 40,
+        "score": 26
+      }
+    ],
+    "total_score": 65
+  },
+  {
+    "_id": {
+      "$oid": "9d595577335406cb0d085076"
+    },
+    "student_id": "STU003",
+    "course_id": "PY101",
+    "teacher_id": "TCH001",
+    "project": "Student Record System",
+    "submitted_at": {
+      "$date": "2026-09-13T01:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-16T01:00:00Z"
+    },
+    "artifacts": {
+      "repo": "github.com/stu003/student-record-system",
+      "files": [
+        "records.py",
+        "README.md"
+      ]
+    },
+    "rubric": [
+      {
+        "criterion": "Data Types",
+        "max": 20,
+        "score": 12
+      },
+      {
+        "criterion": "Functions",
+        "max": 30,
+        "score": 18
+      },
+      {
+        "criterion": "Output Formatting",
+        "max": 50,
+        "score": 29
+      }
+    ],
+    "total_score": 59
+  },
+  {
+    "_id": {
+      "$oid": "9d4695bb9102a50f506c20dc"
+    },
+    "student_id": "STU004",
+    "course_id": "DE301",
+    "teacher_id": "TCH003",
+    "project": "Kafka Streaming Pipeline",
+    "submitted_at": {
+      "$date": "2026-09-20T03:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-21T03:00:00Z"
+    },
+    "artifacts": {
+      "repo": "github.com/stu004/kafka-pipeline",
+      "dag": "stream_dag.py",
+      "metrics": {
+        "throughput_msgs_s": 861,
+        "uptime_pct": 96.4
+      }
+    },
+    "rubric": [
+      {
+        "criterion": "Pipeline Design",
+        "max": 30,
+        "score": 29
+      },
+      {
+        "criterion": "Reliability",
+        "max": 40,
+        "score": 35
+      },
+      {
+        "criterion": "Documentation",
+        "max": 30,
+        "score": 30
+      }
+    ],
+    "total_score": 94
+  },
+  {
+    "_id": {
+      "$oid": "c94622275cf4f820e89ba6c0"
+    },
+    "student_id": "STU004",
+    "course_id": "SQL201",
+    "teacher_id": "TCH002",
+    "project": "Sales Analysis Queries",
+    "submitted_at": {
+      "$date": "2026-09-16T16:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-19T16:00:00Z"
+    },
+    "artifacts": {
+      "queries_file": "analysis.sql",
+      "erd_image": "erd.png"
+    },
+    "rubric": [
+      {
+        "criterion": "Joins",
+        "max": 30,
+        "score": 24
+      },
+      {
+        "criterion": "Aggregations",
+        "max": 30,
+        "score": 27
+      },
+      {
+        "criterion": "Query Performance",
+        "max": 40,
+        "score": 34
+      }
+    ],
+    "total_score": 85
+  },
+  {
+    "_id": {
+      "$oid": "b9054f3e880d3fd0edf79e5b"
+    },
+    "student_id": "STU005",
+    "course_id": "DE301",
+    "teacher_id": "TCH003",
+    "project": "Kafka Streaming Pipeline",
+    "submitted_at": {
+      "$date": "2026-09-19T16:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-20T16:00:00Z"
+    },
+    "artifacts": {
+      "repo": "github.com/stu005/kafka-pipeline",
+      "dag": "stream_dag.py",
+      "metrics": {
+        "throughput_msgs_s": 1949,
+        "uptime_pct": 96.8
+      }
+    },
+    "rubric": [
+      {
+        "criterion": "Pipeline Design",
+        "max": 30,
+        "score": 24
+      },
+      {
+        "criterion": "Reliability",
+        "max": 40,
+        "score": 31
+      },
+      {
+        "criterion": "Documentation",
+        "max": 30,
+        "score": 20
+      }
+    ],
+    "total_score": 75
+  },
+  {
+    "_id": {
+      "$oid": "08d277df4477373e747ae2df"
+    },
+    "student_id": "STU006",
+    "course_id": "PY101",
+    "teacher_id": "TCH001",
+    "project": "Student Record System",
+    "submitted_at": {
+      "$date": "2026-09-11T13:00:00Z"
+    },
+    "status": "resubmit",
+    "graded_at": {
+      "$date": "2026-09-14T13:00:00Z"
+    },
+    "artifacts": {
+      "repo": "github.com/stu006/student-record-system",
+      "files": [
+        "records.py",
+        "README.md"
+      ]
+    },
+    "rubric": [
+      {
+        "criterion": "Data Types",
+        "max": 20,
+        "score": 10
+      },
+      {
+        "criterion": "Functions",
+        "max": 30,
+        "score": 15
+      },
+      {
+        "criterion": "Output Formatting",
+        "max": 50,
+        "score": 19
+      }
+    ],
+    "total_score": 44
+  },
+  {
+    "_id": {
+      "$oid": "36b5b8b18772bfb2e785e139"
+    },
+    "student_id": "STU006",
+    "course_id": "DE301",
+    "teacher_id": "TCH003",
+    "project": "Kafka Streaming Pipeline",
+    "submitted_at": {
+      "$date": "2026-09-19T20:00:00Z"
+    },
+    "status": "graded",
+    "graded_at": {
+      "$date": "2026-09-21T20:00:00Z"
+    },
+    "artifacts": {
+      "repo": "github.com/stu006/kafka-pipeline",
+      "dag": "stream_dag.py",
+      "metrics": {
+        "throughput_msgs_s": 1251,
+        "uptime_pct": 97.8
+      }
+    },
+    "rubric": [
+      {
+        "criterion": "Pipeline Design",
+        "max": 30,
+        "score": 18
+      },
+      {
+        "criterion": "Reliability",
+        "max": 40,
+        "score": 24
+      },
+      {
+        "criterion": "Documentation",
+        "max": 30,
+        "score": 17
+      }
+    ],
+    "total_score": 59
+  }
+]
